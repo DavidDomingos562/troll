@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: gray;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 5vh;
+    padding-bottom: 30px;
+    margin: auto;
+    display: block;
+}
+aside{
+    background-color: rgb(44, 44, 44);
+    padding: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
